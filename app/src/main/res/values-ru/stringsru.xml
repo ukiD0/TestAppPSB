@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ПСБ Валюты</string>
+    <string name="selected_valute_id">ID:</string>
+    <string name="selected_valute_num">Цифровой код:</string>
+    <string name="selected_valute_char_code">Символьный код:</string>
+    <string name="selected_valute_nominal">Номинал:</string>
+    <string name="selected_valute_name">Имя валюты:</string>
+    <string name="selected_valute_value">Текущее значение:</string>
+    <string name="selected_valute_previous">Предыдущее значение:</string>
+    <string name="selected_text_btn_prev_day">Назад</string>
+    <string name="selected_btn_text_current_day">Назад в будущее</string>
+    <string name="date_text">Дата: </string>
+    <string name="time_text">Время: </string>
+    <string name="meow_err">****</string>
+    <string name="network_err">Ошибка сети</string>
+</resources>

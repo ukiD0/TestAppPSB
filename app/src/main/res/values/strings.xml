@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PSB Meow Currency</string>
+    <string name="selected_valute_id">MEOWID:</string>
+    <string name="selected_valute_num">Meowdigital code:</string>
+    <string name="selected_valute_char_code">Meowcharacter code:</string>
+    <string name="selected_valute_nominal">Meownominal:</string>
+    <string name="selected_valute_name">Meowcurrency name:</string>
+    <string name="selected_valute_value">Meowcurrent value:</string>
+    <string name="selected_valute_previous">Previous meow value:</string>
+    <string name="selected_text_btn_prev_day">Meow-purr</string>
+    <string name="selected_btn_text_current_day">Back to the meow future</string>
+    <string name="date_text">MeowDate: </string>
+    <string name="time_text">MeowTime: </string>
+    <string name="meow_err">meow-err</string>
+    <string name="network_err">Network meowerror</string>
+
+</resources>

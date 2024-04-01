@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/valuetItemFragment">
+
+    <fragment
+        android:id="@+id/valuetItemFragment"
+        android:name="com.example.psbtesttask.view.ValuetItemFragment"
+        android:label="fragment_valute_list"
+        tools:layout="@layout/fragment_valute_list" >
+        <action
+            android:id="@+id/action_valuetItemFragment_to_selectedValuteFragment"
+            app:destination="@id/selectedValuteFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/selectedValuteFragment"
+        android:name="com.example.psbtesttask.view.SelectedValuteFragment"
+        android:label="fragment_selected_valute"
+        tools:layout="@layout/fragment_selected_valute" />
+</navigation>
